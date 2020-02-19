@@ -7,12 +7,12 @@
 
 <!-- badges: end -->
 
-The goal of ete is to provide an interface to the Evolution of
+The goal of ETERnity is to provide an interface to the Evolution of
 Terrestrial Ecosystems (ETE) Program database.
 
 ## Installation
 
-You can install the released version of ete from GitHub with:
+You can install the released version of ETERnity from GitHub with:
 
 ``` r
 devtools::install_github("smithsonian/ETERnity")
